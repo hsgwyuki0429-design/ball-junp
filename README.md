@@ -2,6 +2,10 @@
 
 草原で大砲を撃ち、バウンドをつないで得点を稼ぐブラウザゲームです。HTML・CSS・JavaScriptだけで動作します。
 
+**[ブラウザで遊ぶ](https://hsgwyuki0429-design.github.io/ball-junp/)**
+
+GitHub Pagesは `main` の更新時に動作確認を実行し、`dist` フォルダを自動公開します。
+
 ## 遊び方
 
 1. 盤面をドラッグして大砲の角度を決めます。
